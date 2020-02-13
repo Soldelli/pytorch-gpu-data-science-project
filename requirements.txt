@@ -1,3 +1,7 @@
+torch-cluster==1.4.*
+torch-geometric==1.4.*
+torch-scatter==2.0.*
+torch-sparse==0.4.*
 horovod==0.19.*
 jupyterlab-nvdashboard==0.1.*
 jupyterlab_sql==0.3.*
